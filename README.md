@@ -6,54 +6,31 @@
 
 ### 🌟 About Me
 
-Greetings! My name is Khaylah Rose, and I'm a senior pursuing a Bachelor's degree in Computer Engineering at Jackson State University. With a strong foundation in programming and a keen interest in UI/UX design, I aspire to make a positive impact within our community through technology.
-
+Greetings! My name is Khaylah Rose, and I'm a senior pursuing a Bachelor's degree in Computer Engineering at Jackson State University. I have a strong foundation in programming and a keen interest in Full Stack Development, I aspire to make a positive impact within our community through technology.
 - 📍 Jackson, MS
 - 🎓 Class of 2025
 - 🎯 Aspiring Computer Engineer
 
-### 💼 Experience
-
-- **Autodesk Strategic Foresight Web Developer Intern - Summer 2023**
-  - Developed a dynamic web app for the FY 24 report using ReactJS.
-
+### 🛠️ Skills
+[![My Skills](https://skillicons.dev/icons?i=html,js,css,react,nodejs,ts,mysql,angular,nodejs,lua,py,flask,c,cpp,kotlin,figma,androidstudio,autocad,aws,firebase,github,git,linux,unity,vscode)](https://skillicons.dev)
+### 💼 Best Works
 - **Lilly HBCU Virtual Hackathon Winner - Spring 2023**
   - Designed and developed MEDISCAN, an app for displaying Eli-Lilly medical data, using Android Studio, Kotlin, and Figma.
+  - [More Information](https://devpost.com/software/mediscan-b6ln1m)
 
 - **BE SMART Hackathon Winner - Fall 2023**
   - Created SOAR, a voice assistant for pre/post flight experiences, in a hackathon sponsored by American Airlines.
-
-### 🛠️ Skills
-
-- **Programming Languages & Tools:**
-  - Advanced: UI/UX, HTML, CSS, JavaScript, Flask
-  - Novice: ReactJS, C++, Python, Kotlin, VHDL
-  - Arduino ESP32 C
-
-- **Microsoft Tools:**
-  - SharePoint, Power Apps, Power Automate
-
-- **Soft Skills:**
-  - Leadership, Communication, Public Speaking
-
-### 🎓 Education
-
-**Jackson State University**
-- Bachelor of Science in Computer Engineering
-- GPA: 3.4
-- Top 10% of class
-
-**Stranahan High School, Fort Lauderdale, FL**
-- High School Diploma
-- GPA: 4.5 (weighted)
-- Vice President, National Honors Society
-- Section Leader: Alto Saxophones, Marching Band
+  - [More Information](https://southernlaced.com/2023/11/09/jsu-ticode-team-with-soar-app-at-be-smart-hackathon/)
+    
+- **2nd Place USAID and the PepsiCo Foundation’s “IDEA Case Competition" Spring 2023**
+  - Designed the UI/UX for an app proposal. The designed app is a virtual community for education and mental health.
+  - [More Information](https://www.figma.com/design/Ss0xKn5D5w139qmZUq4JpF/Imfundo?node-id=435-660&t=Y2KmQX20QIFkMn1i-1)
+    
+- **Turners Cleaning Service 2022**
+  - Developed a website in React for a small business
+  - [More Information](https://turnerscleaningservice.com/)
 
 ### 🔗 Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/khaylah-rose)
 
- ### 🔗 Best Works
-- [DevPost Portfolio](https://devpost.com/khaylahrscholar?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav)
-- [IEEE Website](https://unclebinary1001.github.io/jsu_ieee_website/index.html)
-- [Turner's Cleaning Service](https://turnerscleaningservice.com/)
