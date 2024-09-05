@@ -33,4 +33,5 @@ Greetings! My name is Khaylah Rose, and I'm a senior pursuing a Bachelor's degre
 ### 🔗 Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/khaylah-rose)
+- [Portfolio](https://khaysdev.netlify.app/)
 
