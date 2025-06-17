@@ -7,7 +7,7 @@
 ### 🌟 About Me
 
 Greetings! My name is Khaylah Rose, and I'm a senior pursuing a Bachelor's degree in Computer Engineering at Jackson State University. I have a strong foundation in programming and a keen interest in Full Stack Development, I aspire to make a positive impact within our community through technology.
-- 📍 Jackson, MS
+- 📍 Hollywood, FL
 - 🎓 Class of 2025
 - 🎯 Aspiring Computer Engineer
 
